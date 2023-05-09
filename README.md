@@ -8,8 +8,8 @@ Create a React web application that allows users to search for movies by title a
 
 Back-End:<br/>
 Create a .NET Core API that retrieves movie data from the OMDB API (http://www.omdbapi.com). The API should have the following endpoints:
-1.	/api/movies/search?query=<searchTerm>: Returns a list of movies that match the search term.
-2.	/api/movies/<imdbId>: Returns additional information about a specific movie, such as the plot, the cast, and the release date.
+1.	/api/movies/search?query=&lt;searchTerm&gt;: Returns a list of movies that match the search term.
+2.	/api/movies/&lt;imdbId&gt;: Returns additional information about a specific movie, such as the plot, the cast, and the release date.
 <br/>
 The front-end should make API calls to the back-end to retrieve the movie data.<br/>
 API Key: 337f4251
