@@ -1,5 +1,5 @@
 # full-stack-dev-assessment
-Front-End:<br/>
+**Front-End:**<br/>
 Create a React web application that allows users to search for movies by title and displays the results in a grid. The application should have the following features:
 1.	A search bar that allows users to search for movies by title.
 2.	A grid that displays movie posters and titles.
